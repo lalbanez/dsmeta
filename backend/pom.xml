@@ -11,7 +11,7 @@
 	<groupId>com.leandroalbanez</groupId>
 	<artifactId>dsmeta</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>dsmeta</name>
 	<description>Projeto DS Meta - Semana Dev Superior 9</description>
 	<properties>
